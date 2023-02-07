@@ -1,0 +1,6 @@
+tensorflow==2.6.0
+opencv-python==4.4.0.40
+numpy
+Pillow
+scikit-learn
+pickle5
